@@ -1,7 +1,15 @@
 # Project-1
 
-AI engineer
+Website portofolio pribadi.
 
 ## Deskripsi
 
-Repositori ini adalah ruang kerja untuk proyek AI engineering. Saat ini masih tahap awal dan belum berisi kode; struktur, stack, dan petunjuk penggunaan akan ditambahkan seiring pengembangan.
+Proyek ini adalah website portofolio untuk menampilkan profil, proyek, pengalaman, dan penghargaan. Dibuat dengan HTML, CSS, dan JavaScript biasa tanpa dependensi.
+
+## Menjalankan secara lokal
+
+```
+python3 -m http.server 8000
+```
+
+Lalu buka http://localhost:8000.
